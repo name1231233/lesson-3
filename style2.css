@@ -1,0 +1,33 @@
+nav {
+    font-size: 20px;
+    background-color: ghostwhite;
+}
+
+body{
+    background-image: url("https://img.freepik.com/premium-photo/lord-rings-dragons-wallpapers_781958-3323.jpg");
+    background-size: cover;
+
+}
+
+.about{
+    font-style: italic;
+    text-align: center;
+    background-color: ghostwhite;
+}
+
+.author{
+    font-style: oblique;
+    background-color: skyblue;
+}
+
+.actors{
+    font-style: initial;
+    background-color: papayawhip;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+    background-color: royalblue;
+}
